@@ -9,7 +9,7 @@ To develop this project, was used:
 - DotNet 7
 - Redis
 
-## Whats in idempotency?
+## Whats is idempotency?
 
 Idempotency is a concept often used in software development and distributed systems to ensure that a specific action can be safely repeated multiple times without causing unintended side effects. An operation is considered idempotent if performing it multiple times produces the same result as performing it once. In other words, subsequent identical operations should have no additional effect beyond the first one.
 
